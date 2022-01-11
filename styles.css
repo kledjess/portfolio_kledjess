@@ -1,0 +1,79 @@
+h1{
+color: blue;
+border: dashed;
+border-color: green;
+background-color: orange;	
+}
+img{
+	height: 210px;
+	width: 210px;
+	border: 5px solid black;
+	border-radius: 50%;
+}
+ul{
+	list-style-type:none;
+}
+
+#box1{
+width: 570px;
+height:200px;
+
+position: absolute;
+top: 100px;
+left: 350px;
+}
+#box2{
+width: 375px;
+height:205px;
+
+position: absolute;
+top: 320px;
+left: 108px; 
+}
+#box3{
+width: 420px;
+height:205px;
+position: absolute;
+top: 320px;
+left: 500px;
+} 
+#box4{
+width: 374px;
+height:165px;
+position: absolute;
+top: 530px;
+left: 109px; 
+}
+
+#box5{
+width: 425px;
+height:165px;
+position: absolute;
+top: 530px;
+left: 497px; 
+}
+#box6{
+width: 375px;
+height:170px;
+position: absolute;
+top: 700px;
+left:108px; 
+}
+#box7{
+width: 425px;
+
+height:170px;
+position: absolute;
+top: 700px;
+left:  500px;
+}
+#body{
+background-color: gray ;
+margin-left:100px;
+margin-right: 100px;
+border: 2px solid green;
+height: 900px;
+padding: 4px;	
+}
+
+
